@@ -1,2 +1,12 @@
-# networkwalks-week1-android-x86-virtualbox-lab
-Android-x86 9.0 virtual machine setup in VirtualBox, connected to a Kali Linux NAT Network with static IP configuration and connectivity testing.
+# Screenshots
+
+Add your own evidence screenshots here before publishing the repository.
+
+Suggested filenames:
+- `01-virtualbox-android-vm.png`
+- `02-android-network-settings.png`
+- `03-android-ping-kali.png`
+- `04-android-ping-internet.png`
+- `05-kali-ping-android.png`
+
+Do not use sample screenshots as if they were captured from your own lab.

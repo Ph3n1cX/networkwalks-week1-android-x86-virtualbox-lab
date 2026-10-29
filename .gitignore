@@ -1,0 +1,13 @@
+# Virtual machine disks and exports
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.ova
+*.ovf
+
+# Local/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
