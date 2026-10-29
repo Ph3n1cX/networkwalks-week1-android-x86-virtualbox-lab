@@ -133,25 +133,30 @@ ping 10.0.0.9
 
 > **Evidence note:** Upload screenshots of the actual command output. Commands and expected results document the procedure; they do not replace evidence from the lab. A failed ping can also result from ICMP filtering.
 
-## 📸 Screenshots
+## 📸 Lab Screenshots
 
-Upload actual screenshots from your completed lab to `screenshots/`.
+The screenshots below are stored in the repository root and show evidence from the lab.
 
-| Suggested filename | Evidence |
-|---|---|
-| `01-virtualbox-android-vm.png` | Android VM running in VirtualBox |
-| `02-android-network-settings.png` | Android static IP configuration |
-| `03-android-ping-kali.png` | Android pinging `10.0.0.2` |
-| `04-android-ping-internet.png` | Android pinging `8.8.8.8` |
-| `05-kali-ping-android.png` | Kali pinging `10.0.0.9` |
+### 1. Android-x86 running in VirtualBox
 
-When a screenshot is uploaded, embed it in this README using Markdown, for example:
+![Android VM running in VirtualBox](01-virtualbox-android-vm.png)
 
-```md
-![Android VM running in VirtualBox](screenshots/01-virtualbox-android-vm.png)
-```
+### 2. Android static IP configuration
 
-Only use image paths that match files actually present in the repository.
+![Android network settings](02-android-network-settings.png)
+
+### 3. Android ping to Kali Linux
+
+![Android ping to Kali Linux at 10.0.0.2](03-android-ping-kali.png)
+
+### 4. Android ping to the internet
+
+![Android ping to 8.8.8.8](04-android-ping-internet.png)
+
+### 5. Kali Linux ping to Android-x86
+
+![Kali Linux ping to Android at 10.0.0.9](05-kali-ping-android.png)
+
 
 ## 🧰 Troubleshooting
 
