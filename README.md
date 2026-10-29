@@ -64,10 +64,6 @@ The lab included connectivity checks in both directions and an outbound internet
 - Applied static IPv4 network settings.
 - Tested connectivity between guests and to an external IP address.
 
-## Setup Notes
-
-See [Android-x86 Setup Notes](docs/android-x86-setup-notes.md) for the installation steps and configuration details.
-
 ## References
 
 - [Android-x86](https://www.android-x86.org/)
